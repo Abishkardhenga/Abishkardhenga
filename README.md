@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abishkardhenga
 - 👀 Interested in Learning new things, research and doing development  .
-- 🌱 Mastering Web3  and AI
+- 🌱 Mastering Web3  and decentralized network
 - 💞️ I’m looking to collaborate on Exciting Project .
 - 📫 How to reach me Aabiskardhenga29@gmail.com
 
