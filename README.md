@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Abishkardhenga
-- 🌱 I will be the best in the best . 
-- 📫 email :  Aabiskardhenga29@gmail.com
+-    Hi, I’m @Abishkardhenga
+-    I will be the best in the best .
+-    Learning  AI and web3
+-    email :  Aabiskardhenga29@gmail.com
 
 <!---
 Abishkardhenga/Abishkardhenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
