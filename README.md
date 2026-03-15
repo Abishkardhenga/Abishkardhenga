@@ -1,9 +1,16 @@
--    Hi, I’m @Abishkardhenga
--    I will be the best in the best .
--    Learning  AI and web3
--    email :  Aabiskardhenga29@gmail.com
+# Abishkar Dhenga — FullStack Developer Primarily focused on Frontend
 
-<!---
-Abishkardhenga/Abishkardhenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building scalable web applications with 
+React, Next.js, and TypeScript.
+
+## Tech Stack
+React | Next.js | TypeScript | Tailwind CSS
+React Native | TanStack Query | Jest | Node js | Django
+
+## What I'm Working On
+→ Enterprise frontend applications
+→ RESTful API integration
+→ Component architecture & testing
+
+## Experience
+3 years building production web apps
